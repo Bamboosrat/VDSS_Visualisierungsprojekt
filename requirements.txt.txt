@@ -1,5 +1,4 @@
-
-python==3.10
+streamlit
 matplotlib
 geopandas==0.12.2
 numpy==1.24.2
@@ -7,4 +6,3 @@ cartopy==0.21.1
 openpyxl==3.0.9
 pandas==1.5.3
 bokeh==2.4.3
-streamlit

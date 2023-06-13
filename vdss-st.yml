@@ -3,7 +3,7 @@ channels:
   - conda-forge
   - bokeh
 dependencies:
-  - python=3.9
+  - python=3.11
   - pip
   - matplotlib=3.7.1
   - geopandas=0.12.2

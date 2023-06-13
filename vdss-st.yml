@@ -4,7 +4,7 @@ channels:
   - bokeh
 dependencies:
   - python=3.11
-  - pip
+  - pip=23.1.2
   - matplotlib=3.7.1
   - geopandas=0.12.2
   - jupyterlab

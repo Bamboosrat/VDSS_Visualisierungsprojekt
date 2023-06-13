@@ -1,4 +1,4 @@
-name: base
+name: vdss-st
 channels:
   - conda-forge
   - bokeh
